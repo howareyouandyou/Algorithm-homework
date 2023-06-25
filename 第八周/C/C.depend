@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1686661642 source:c:\users\86152\documents\computer\algorithm\线性规划\c\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<math.h>
+
